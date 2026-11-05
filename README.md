@@ -47,8 +47,4 @@ An independent computational biology project investigating pancreatic ductal ade
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/vigneshkokul-boop
-- LinkedIn: [www.linkedin.com/in/kokul-raj-a-b-542771271]
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [https/www.linkedin.com/in/kokul-raj-a-b-542771271]
