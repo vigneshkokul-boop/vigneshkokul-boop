@@ -16,7 +16,9 @@ My interests lie at the intersection of biology, computational methods, and AI, 
 - Used GROMACS, AutoDock Vina, CHARMM-GUI, VMD and PyMOL.
 - Analysed protein stability using RMSD, RMSF and radius of gyration.
 
-Explore My Zika NS5 Project = [https://github.com/vigneshkokul-boop/ZIKA-virus-NS5-polymerase-Molecular-dynamics-simulation-](https://github.com/vigneshkokul-boop/ZIKA-virus-NS5-polymerase-Molecular-dynamics-simulation-)
+Explore My Zika NS5 Project Repository
+= [https://github.com/vigneshkokul-boop/ZIKA-virus-NS5-polymerase-Molecular-dynamics-simulation-](https://github.com/vigneshkokul-boop/ZIKA-virus-NS5-polymerase-Molecular-dynamics-simulation-)
+
 **Focus:** Structural Bioinformatics | Molecular Docking | Molecular Dynamics
 
 ### 2. Pancreatic Cancer Computational Analysis
@@ -48,4 +50,4 @@ An independent computational biology project investigating pancreatic ductal ade
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/vigneshkokul-boop
-- LinkedIn: [https:/www.linkedin.com/in/kokul-raj-a-b-542771271]
+- LinkedIn: https://www.linkedin.com/in/kokul-raj-a-b-542771271
